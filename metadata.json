@@ -1,0 +1,8 @@
+{
+  "name": "RadarIA & Data - LinkedIn Curator Agent",
+  "description": "Agente autónomo que recopila novedades semanales de IA, Data y Analytics para consolidarlas en publicaciones virales y de alto valor para LinkedIn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
